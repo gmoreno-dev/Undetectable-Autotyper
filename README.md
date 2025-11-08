@@ -35,8 +35,8 @@ Sabe quando você precisa digitar aquele textão gigante e sua mão já tá doen
 ### Instalação
 ```bash
 # Clone o repo (ou baixe o ZIP, sem julgamentos aqui)
-git clone https://github.com/seuuser/undetectable-autotyper.git
-cd undetectable-autotyper
+git clone [https://github.com/seuuser/undetectable-autotyper.git](https://github.com/gmoreno-dev/Undetectable-Autotyper.git)
+cd Undetectable-Autotyper
 
 # Instala as dependências
 pip install -r requirements.txt

@@ -5,7 +5,7 @@
 <!-- Coloque aqui sua logo maneira -->
 <img src="logo.png" alt="GhostTyper Logo" width="200"/>
 
-### O AutoTyper que finge ser humano melhor que você em reuniões do Zoom
+### O AutoTyper que finge ser humano melhor que você (ou não)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
